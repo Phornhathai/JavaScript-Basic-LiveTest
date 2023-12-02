@@ -1,7 +1,6 @@
 function findMidChar(str) {
     let word = str.split('')
 
-
     let mid = word.length / 2
     mid = Math.floor(mid)
     let arr = ""

@@ -9,8 +9,8 @@ function sum (num){
 
     for (let i = 0; i < arr.length; i++) {
         sum = sum + arr[i] ** (i+1)
+        console.log(sum);
     }
-    console.log(sum);
 
 }
 

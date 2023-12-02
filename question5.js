@@ -1,4 +1,4 @@
-// //method 1 ใช้ function sort ใน javascript
+//method 1 ใช้ function sort ใน javascript
 // function findMindMaxArray(arr1 , arr2){
 //     //ใช้ spread merge array
 //     let arr = [...arr1,...arr2]
